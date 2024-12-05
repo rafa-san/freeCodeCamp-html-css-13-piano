@@ -2,18 +2,20 @@ html {
   box-sizing: border-box;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
 }
 
 #piano {
+  position: relative;
   background-color: #00471b;
   border-radius: 10px;
   height: 290px;
   margin: 80px auto;
   padding: 90px 20px 0 20px;
   width: 992px;
-  position: relative;
 }
 
 .keys {
@@ -25,29 +27,29 @@ html {
 }
 
 .key {
+  position: relative;
   background-color: #ffffff;
   border-radius: 0 0 3px 3px;
   float: left;
   height: 175px;
   margin: 2px;
   width: 41px;
-  position: relative;
 }
 
 .key.black--key::after {
+  position: absolute;
+  left: -18px;
   background-color: #1d1e22;
   border-radius: 0 0 3px 3px;
   content: "";
   height: 100px;
   width: 32px;
-  position: absolute;
-  left: -18px;
 }
 
 .logo {
-  width: 200px;
   position: absolute;
   top: 23px;
+  width: 200px;
 }
 
 @media (max-width: 768px) {
