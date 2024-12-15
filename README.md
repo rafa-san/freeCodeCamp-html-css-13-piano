@@ -15,8 +15,6 @@ Os principais tópicos abordados incluem:
 - **Media Queries:** técnica fundamental para o design responsivo, que permite aplicar estilos CSS específicos com base em condições como largura e altura da tela.
 - **Pseudo Selectors:** ferramentas CSS usadas para selecionar e estilizar elementos HTML com maior precisão.
 
-O teclado de piano foi uma excelente maneira de explorar esses conceitos, pois seu design depende diretamente de proporções e escalas que variam conforme o espaço disponível na tela.
-
 ## 3️⃣ Principais Modificações
 Este projeto foi desenvolvido conforme as orientações do curso, sem alterações adicionais.
 
@@ -33,7 +31,7 @@ Este projeto foi desenvolvido conforme as orientações do curso, sem alteraçõ
 </div>
 
 ## 5️⃣ Créditos
-Agradeço ao freeCodeCamp por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
+Agradeço ao **freeCodeCamp** por oferecer cursos gratuitos de altíssima qualidade, que não apenas ampliaram meus conhecimentos, mas também contribuíram muito para a construção do meu portfólio.
 - <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp 🔗</a>
 
 ## 6️⃣ Licença
